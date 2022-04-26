@@ -22,11 +22,11 @@ streamlit run fintech_finder.py
 
 ## Screenshots
 
-![example1](Images/balance_and_history.png)
+![example1](Images/balance_and_history.PNG)
 
-![example2](Images/transaction_details.png)
+![example2](Images/transaction_details.PNG)
 
-![example3](Images/recipient_address.png)
+![example3](Images/recipient_address.PNG)
 
 ## Contributors
 
